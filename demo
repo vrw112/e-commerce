@@ -1,0 +1,13 @@
+<div class="page-section" id="about-me">
+  <h2>About Me</h2>
+  <p>Ness is an aspiring web developer!</p>
+</div>
+
+<div class="page-section" id="social-media">
+  <h2>Social:</h2>
+  <ul>
+    <li>GitHub</li>
+    <li>Twitter</li>
+    <li>LinkedIn</li>
+  </ul>
+</div>
